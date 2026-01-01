@@ -5,28 +5,37 @@ This project builds an end-to-end demand forecasting system for a quick-commerce
 
 The project applies time-series analysis, feature engineering, and machine learning to generate interpretable demand forecasts and visual insights suitable for business decision-making.
 
-
 🛠️ Technologies Used
 
 Python
-Pandas, NumPy
-Matplotlib
-Scikit-learn
-Time-series feature engineering
 
+Pandas, NumPy
+
+Matplotlib
+
+Scikit-learn
+
+Time-series feature engineering
 
 🎯 What This Project Is Helpful For
 
 Predicting short-term grocery demand
+
 Supporting inventory & reorder decisions
+
 Comparing demand patterns across products
+
 Reducing overstocking and lost sales
+
 Demonstrating end-to-end ML workflow for real business problems
 
 
 🚀 Skills Demonstrated
 
 Data cleaning & preprocessing
+
 Time-series analysis
+
 Machine learning modeling
+
 Business-focused data visualization
